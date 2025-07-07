@@ -1,8 +1,8 @@
 # Learning-scripts
-Welcome to my scripting sandbox! 🧪 This repository contains all the scripts I've created while working through the Google Cybersecurity Professional Certificate. I'm learning hands-on and loving every moment—expect this collection to grow fast!
+Welcome to my scripting sandbox! 🧪 This repository currently contains the script I've created while working through the Google Cybersecurity Professional Certificate. I'm learning hands-on and loving every moment—expect this collection to grow fast!
 
 # 🚀 What's Inside
-update_file.py
+'update_file.py'
 The first script in this repo is a tool for managing access control through IP address filtering. It demonstrates how to:
 
  - Read a list of allowed IPs from a file (allow_list.txt)
@@ -35,4 +35,4 @@ It's a great practice script for:
  - Using conditionals and loops effectively
 
 # 🌱 What’s Next
-More scripts are on the way! I’ll be applying new concepts as I progress through the certificate—stay tuned for scripts covering logging, automation, scanning, and more.
+More scripts are on the way! I’ll be applying new concepts as I progress through my scripting journey! Stay tuned for scripts covering logging, automation, scanning, and more.
