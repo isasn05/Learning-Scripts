@@ -1,3 +1,8 @@
+# Welcome!
+I need to update the description as I will continue adding scripts that I had previously created for CTF challenges. Apart from those and update_file.py I also added my script that I used in horse plinko. I won first place while using this script so definetly a good guideline if building your own for plinko! If you do plan on using it or tailoring it please make sure you know which version of linux you will have as I had AlmaLinux OS 9.0.
+
+
+
 # Learning-scripts
 Welcome to my scripting sandbox! 🧪 This repository currently contains the script I've created while working through the Google Cybersecurity Professional Certificate. I'm learning hands-on and loving every moment—expect this collection to grow fast!
 
